@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Book Review Platform
 
 This project is a full-stack application for a book review platform, allowing users to submit and view reviews for various books. It consists of a backend built with Node.js and Express, and a frontend developed using React.
@@ -71,3 +72,6 @@ book-review-platform
 
 - Ensure that the backend server is running before starting the frontend application.
 - You can customize the application further by adding more features such as user authentication and book search functionality.
+=======
+# Book-Review
+>>>>>>> fae3c59fa88c2468a3d8a3395dbe15fdde8d5dec
